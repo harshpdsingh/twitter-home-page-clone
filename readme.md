@@ -4,7 +4,7 @@ A clean and responsive clone of the Twitter homepage built using **Tailwind CSS*
 
 ## 🚀 Live Demo
 
-[View Deployed Project](https://your-deployed-link-here.com)
+[View Deployed Project](https://willowy-pudding-459992.netlify.app/)
 
 ## 🔧 Tech Stack
 
